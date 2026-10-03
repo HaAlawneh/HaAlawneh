@@ -1,4 +1,4 @@
-```html
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:1F3A4D,100:2F5D73&text=I%20am%20Hareth%20Alawneh&fontSize=43&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn"/>
 
 ![](https://komarev.com/ghpvc/?username=HaAlawneh&label=Profile+Views)
@@ -29,4 +29,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,androidstudio,bash,cpp,c,cloudflare,docker,firebase,git,github,sqlite,tensorflow,vim,vscode,pytorch,postgres,npm,linux,kali,dart,flutter,arduino,matlab,obsidian,py,pycharm&perline=7" />
   </a>
 </p>
-```
